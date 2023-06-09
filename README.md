@@ -18,5 +18,3 @@ Installation
 
 7. python3 Rmote.py
 
-![alt text](https://github.com/Genrev-Reyes
-/RMOTE/blob/[branch]//storage/emulated/0/DCIM/Screenshots/IMG_20230609_200228.png?raw=true)
